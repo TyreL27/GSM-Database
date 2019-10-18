@@ -3,53 +3,53 @@
 <html>
   <body>
     
-    <img src="GSM.jpg">
-    <h1>English</h1>
-    <p>I made a database for a GSM Company</p>
+   <img src="GSM.jpg">
+   <h1>English</h1>
+   <p>I made a database for a GSM Company</p>
     
-    <h1>Turkish</h1>
-    <p>Bir GSM Şirketi için Veritabanı yaptım.</p>
+   <h1>Turkish</h1>
+   <p>Bir GSM Şirketi için Veritabanı yaptım.</p>
     
-    <img src="4th query.jpg">
+   <img src="4th query.jpg">
     
-    <h1>English</h1>
+   <h1>English</h1>
     
-    <p>For this query, I don't have any region end with "Y" and any branch which has 3 letter in name, so I use "N" for region name and 5 letter for branch name.
-    </p>
+   <p>For this query, I don't have any region end with "Y" and any branch which has 3 letter in name, so I use "N" for region name and 5 letter for branch name.
+  </p>
     
-    <h1>Turkish</h1>
-    <p>Bu sorgu için elimde hiç 'Y' ile biten bölge ve 3 harfli alt bayi yoktu bu yüzden bölge için 'N' harfini ve alt bayi için 5 harfli olmasını kullandım.</p>
+   <h1>Turkish</h1>
+   <p>Bu sorgu için elimde hiç 'Y' ile biten bölge ve 3 harfli alt bayi yoktu bu yüzden bölge için 'N' harfini ve alt bayi için 5 harfli olmasını kullandım.</p>
     
-    <img src="5th query.jpg">
+   <img src="5th query.jpg">
     
-    <h1>English</h1>
-    <p> For this one, because of I didn't add lots of subscribers, many branch has 0 subscrbers.</p>
-    
-    
-    
-    <h1>Turkish</h1>
-    <p> Bunun için, çok fazla abone eklemediğimden dolayı çoğu alt bayinin 0 abonesi var.</p>
-    
-    
-    <img src="6th query.jpg">
-    
-    <h1>English</h1>
-    <p>To not see any Unnecessary Bills' columns in result, I add lots of column name</p>
-    
-    <h1>Turkish</h1>
-    <p>Gereksiz Bills kolonlarını görmek istemediğim için bir sürü kolon adı ekledim.</p>
-    
-    <img src="7th query.jpg">
-    <h1>English</h1>
-    <p>I add 'Balıkesir' branch for this query.</p>
-    
-    
-    <h1>Turkish</h1>
-    <p>Bu sorgu için 'Balıkesir' alt bayisini ekledim.</p>
+   <h1>English</h1>
+   <p> For this one, because of I didn't add lots of subscribers, many branch has 0 subscrbers.</p>
     
     
     
-    <img src="8th query.jpg">
+   <h1>Turkish</h1>
+   <p> Bunun için, çok fazla abone eklemediğimden dolayı çoğu alt bayinin 0 abonesi var.</p>
+    
+    
+   <img src="6th query.jpg">
+    
+   <h1>English</h1>
+   <p>To not see any Unnecessary Bills' columns in result, I add lots of column name</p>
+    
+   <h1>Turkish</h1>
+   <p>Gereksiz Bills kolonlarını görmek istemediğim için bir sürü kolon adı ekledim.</p>
+    
+   <img src="7th query.jpg">
+   <h1>English</h1>
+   <p>I add 'Balıkesir' branch for this query.</p>
+    
+    
+   <h1>Turkish</h1>
+   <p>Bu sorgu için 'Balıkesir' alt bayisini ekledim.</p>
+    
+    
+    
+   <img src="8th query.jpg">
     
    <h1>English</h1>
    <p>I add a login with name of 'arda' and give it only select permission.</p>
