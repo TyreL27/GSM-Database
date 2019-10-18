@@ -10,7 +10,7 @@
    <h1>Turkish</h1>
    <p>Bir GSM Şirketi için Veritabanı yaptım.</p>
     
-   <img src="4th query.jpg">
+  <p><img src="4th query.jpg"></p>
     
    <h1>English</h1>
     
@@ -20,7 +20,7 @@
    <h1>Turkish</h1>
    <p>Bu sorgu için elimde hiç 'Y' ile biten bölge ve 3 harfli alt bayi yoktu bu yüzden bölge için 'N' harfini ve alt bayi için 5 harfli olmasını kullandım.</p>
     
-   <img src="5th query.jpg">
+  <img src="5th query.jpg">
     
    <h1>English</h1>
    <p> For this one, because of I didn't add lots of subscribers, many branch has 0 subscrbers.</p>
